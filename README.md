@@ -3,7 +3,7 @@
 1. Upload image
 2. Convert image binary to array
 3. Extract color from image
-   - Extraning options
+   - Extracting options
      - Weighted average of items
      - Top 1
      - ...
