@@ -16,7 +16,7 @@ const options = {
 };
 
 const Profile = () => {
-  const { color } = useDoimantColor("image-sourc-url/image", options);
+  const { color } = useDominantColor("image-sourc-url/image", options);
   return <div style={{ color }}>User Profile</div>;
 };
 ```
